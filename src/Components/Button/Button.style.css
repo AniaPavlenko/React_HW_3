@@ -1,0 +1,13 @@
+.primary-button {
+  border: 1px #959595 solid;
+  font-size: 20px;
+  background-color: #fff;
+  padding: 10px 40px;
+  margin: 10px;
+}
+.primary-button:hover {
+  box-shadow: 3px 3px 3px #aaaaaa;
+}
+.primary-button:active {
+  scale: 0.95;
+}

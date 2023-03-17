@@ -1,0 +1,15 @@
+.input-container {
+  padding: 8px 0;
+}
+.input {
+  width: 300px;
+  height: 40px;
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+.input-label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 6px;
+}
